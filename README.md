@@ -16,6 +16,8 @@ Komunālis ir Android lietotnes projekts kopīgu mājsaimniecības izdevumu uzsk
 
 Sagatavotais sprinta mērķis, backlog vienības un akcepta kritēriji atrodas failā [docs/sprint-preparation.md](docs/sprint-preparation.md). Stundu novērtējumi un galīgais sprinta apjoms tiks apstiprināti plānošanas sapulcē.
 
+[Atvērt Komunālis K4 sprinta uzdevumu dēli](https://github.com/users/anna-anastasija-jansone/projects/1/views/1)
+
 ## Darba process
 
 - Stabilais atzars: `main`
